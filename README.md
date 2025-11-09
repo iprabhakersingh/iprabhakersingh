@@ -92,10 +92,10 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 ### 🌐 Connect With Me
 <p align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/iprabhakersingh/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:iprabhakersingh@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30"/>
   </a>
 </p>
 
