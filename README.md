@@ -94,7 +94,9 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 <p align="center">
   <a href="https://www.linkedin.com/in/iprabhakersingh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" />
-  </a><br>
+  </a>
+</p>
+  <p align="center">
   <a href="mailto:iprabhakersingh@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
   </a>
