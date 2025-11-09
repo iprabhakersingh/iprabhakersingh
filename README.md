@@ -24,16 +24,30 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-#### 💻 Frontend
-React.js • HTML • CSS • JavaScript • Bootstrap • Material UI   
+#### 💻 Frontend  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=react,materialui,html,css,js,bootstrap" height="40" alt="Frontend Tech"/>  
+</p>
 
-#### ⚙️ Backend
-Node.js • Express.js • MongoDB • Mongoose  
+#### ⚙️ Backend  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend Tech"/>  
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28" alt="Mongoose"/>  
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white" height="28" alt="SQL"/>  
+</p>
 
-#### 🧩 Tools & Platforms
-Git & GitHub • VS Code • Postman • Render • Vercel 
+#### 🧩 Tools & Platforms  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" height="40" alt="Tools"/>  
+</p>
+
+#### 🧠 Programming & Problem Solving  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Programming Languages"/>  
+  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=codeforces&logoColor=white" height="28" alt="DSA"/>  
+</p>
 
 ---
 
@@ -80,3 +94,7 @@ Git & GitHub • VS Code • Postman • Render • Vercel
 ---
 
 ⭐ *“Code. Learn. Improve. Repeat.”*  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iprabhakersingh&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
