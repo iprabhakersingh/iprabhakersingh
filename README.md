@@ -27,26 +27,37 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 ### 🛠️ Tech Stack  
 
 #### 💻 Frontend  
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=react,materialui,html,css,js,bootstrap" height="40" alt="Frontend Tech"/>  
-</p>
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Material UI"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>&nbsp;&nbsp;
 
 #### ⚙️ Backend  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend Tech"/>  
-   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="32" alt="Mongoose"/>    
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white" height="28" alt="SQL"/>  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" height="42" alt="Mongoose Logo" title="Mongoose ODM"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="42" alt="MySQL Logo" title="MySQL / SQL Database"/>
 </p>
 
 #### 🧩 Tools & Platforms  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" height="40" alt="Tools"/>  
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=render" height="40" alt="Render"/>
 </p>
+
 
 #### 🧠 Programming & Problem Solving  
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Programming Languages"/>  
-  <img src="https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=codeforces&logoColor=white" height="28" alt="DSA"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/leetcode/leetcode-original.svg" height="42" alt="LeetCode Logo" title="LeetCode / DSA"/>  
 </p>
 
 ---
@@ -81,7 +92,7 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhaker-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" />
   </a>
   <a href="mailto:iprabhakersingh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
