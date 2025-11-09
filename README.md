@@ -27,13 +27,13 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 ### 🛠️ Tech Stack
 
 #### 💻 Frontend
-React.js • HTML • CSS • JavaScript • Bootstrap • Tailwind CSS  
+React.js • HTML • CSS • JavaScript • Bootstrap • Material UI   
 
 #### ⚙️ Backend
 Node.js • Express.js • MongoDB • Mongoose  
 
 #### 🧩 Tools & Platforms
-Git & GitHub • VS Code • Postman • Render • Netlify  
+Git & GitHub • VS Code • Postman • Render • Vercel 
 
 ---
 
