@@ -91,16 +91,13 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ### 🌐 Connect With Me
 <!-- social icons start -->
-<p align="center" style="text-decoration: none;">
+<p align="center">
   <a href="https://www.linkedin.com/in/iprabhakersingh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" />
-  </a>&nbsp;
+  </a><br>
   <a href="mailto:iprabhakersingh@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://github.com/iprabhakersingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>&nbsp;
+  </a>
 </p>
 
 ---
