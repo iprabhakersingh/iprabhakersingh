@@ -37,6 +37,10 @@ Git & GitHub • VS Code • Postman • Render • Vercel
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
