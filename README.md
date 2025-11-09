@@ -1,7 +1,7 @@
 <!-- Typing animation header -->
 <p align="center">
   <a href="https://github.com/iprabhakersingh">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Prabhaker+Singh!;MERN+Stack+Intern+%26+Developer;Problem+Solver+%7C+Tech+Learner;Building+Cool+Stuff+Everyday+🚀" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Prabhaker+Singh!;MERN+Stack+Intern+%26+Developer;Problem+Solver+%7C+Tech+Learner;Building+Cool+Stuff+Everyday" alt="Typing SVG">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 #### ⚙️ Backend  
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend Tech"/>  
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28" alt="Mongoose"/>  
+   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="32" alt="Mongoose"/>    
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white" height="28" alt="SQL"/>  
 </p>
 
