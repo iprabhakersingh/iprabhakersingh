@@ -74,6 +74,8 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 | 🌤️ [Weather React App](https://github.com/iprabhakersingh/weather-react) | Live weather data using OpenWeather API | React.js, API Integration |
 | 🎵 [TuneWave](https://github.com/iprabhakersingh/TuneWave) | Front-end music streaming UI | HTML, CSS |
 | 🧳 [WanderLust](https://github.com/iprabhakersingh/WanderLust) | Full-stack travel booking web app | Node.js, Express, MongoDB, EJS |
+| 🎥 [MeetFlow](https://github.com/iprabhakersingh/MeetFlow) | Real-time video conferencing app with chat & screen sharing | MERN, WebRTC, Socket.IO |
+| 📈 [InvestMate](https://github.com/iprabhakersingh/InvestMate) | Stock trading & portfolio management platform | MERN, JWT, REST APIs |
 
 ---
 
