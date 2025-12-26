@@ -85,22 +85,13 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight&hide_border=true"
-    referrerpolicy="no-referrer"
+    src="https://github-readme-stats-dxdt590id-prabhaker-singhs-projects.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iprabhakersingh&theme=tokyonight&hide_border=true"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight&hide_border=true"
-    referrerpolicy="no-referrer"
+    src="https://github-readme-stats-dxdt590id-prabhaker-singhs-projects.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight"
   />
 </p>
 
