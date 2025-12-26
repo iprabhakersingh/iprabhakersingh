@@ -81,11 +81,11 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iprabhakersingh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=iprabhakersingh&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight)
 
 ---
 
