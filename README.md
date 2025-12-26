@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true" />
+
 <!-- Typing animation header -->
 <p align="center">
   <a href="https://github.com/iprabhakersingh">
@@ -82,12 +84,15 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iprabhakersingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iprabhakersingh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
