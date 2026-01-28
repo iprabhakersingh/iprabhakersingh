@@ -1,13 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true" />
-
-<!-- Typing animation header -->
-<p align="center">
-  <a href="https://github.com/iprabhakersingh">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Prabhaker+Singh!;MERN+Stack+Intern+%26+Developer;Problem+Solver+%7C+Tech+Learner;Building+Cool+Stuff+Everyday" alt="Typing SVG">
-  </a>
-</p>
-
----
 
 # 👋 Hi, I'm Prabhaker Singh
 
@@ -83,16 +73,13 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-dxdt590id-prabhaker-singhs-projects.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=tokyonight"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true" />
 
+<!-- Typing animation header -->
 <p align="center">
-  <img
-    src="https://github-readme-stats-dxdt590id-prabhaker-singhs-projects.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=tokyonight"
-  />
+  <a href="https://github.com/iprabhakersingh">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Prabhaker+Singh!;MERN+Stack+Intern+%26+Developer;Problem+Solver+%7C+Tech+Learner;Building+Cool+Stuff+Everyday" alt="Typing SVG">
+  </a>
 </p>
 
 ---
