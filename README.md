@@ -75,6 +75,7 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 | 🧳 [WanderLust](https://github.com/iprabhakersingh/WanderLust) | Full-stack travel booking web app | Node.js, Express, MongoDB, EJS |
 | 🎥 [MeetFlow](https://github.com/iprabhakersingh/MeetFlow) | Real-time video conferencing app with chat & screen sharing | MERN, WebRTC, Socket.IO |
 | 📈 [InvestMate](https://github.com/iprabhakersingh/InvestMate) | Stock trading & portfolio management platform | MERN, JWT, REST APIs |
+| 🤖 [ResuMate AI](https://github.com/iprabhakersingh/ResuMate-AI) | AI-powered resume builder with smart content suggestions | MERN, AI APIs, JWT, Vercel, Render |
 
 ---
 
