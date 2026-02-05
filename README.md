@@ -79,14 +79,6 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ---
 
-## 📊 GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/iprabhakersingh?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/iprabhakersingh?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen?style=for-the-badge)
-
----
-
 ### 🌐 Connect With Me
 <!-- social icons start -->
 <p align="center">
