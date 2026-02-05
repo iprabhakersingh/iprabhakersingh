@@ -81,7 +81,11 @@ Currently working on a **Stock Trading & Exchange Platform** as part of my semes
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=iprabhakersingh&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iprabhakersingh&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprabhakersingh&layout=compact&theme=radical" />
 
 ---
 
